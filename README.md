@@ -22,8 +22,11 @@ The wall cycles through the four seasons of the year along with a soundtrack con
 * DC Motor + Stepper FeatherWing
 * Power supply
 
+### Block Diagram
+![block diagram](./images/block2.jpg)
 
-Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
+### NeoPixel Wiring
+![wiring diagram](./images/block1.jpg)
 
 ## Challenges
 
@@ -59,5 +62,5 @@ Individual NeoPixels are parametrized by their position along the strand; this a
 
 ### Resources
 [Adafruit Feather Documentation](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/overview)  
-[NeoPixel Uberguide](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)
+[NeoPixel Uberguide](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)  
 [FeatherWing Guide](https://learn.adafruit.com/adafruit-stepper-dc-motor-featherwing)
