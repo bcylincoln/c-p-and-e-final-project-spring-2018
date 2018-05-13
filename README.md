@@ -14,6 +14,7 @@ The wall cycles through the four seasons of the year along with a soundtrack con
 
 * 8 plastic vines
 * 6 servos
+* 4 DC motors
 * Painted canvas backing
 * 60 neopixels
 * Electronic components
