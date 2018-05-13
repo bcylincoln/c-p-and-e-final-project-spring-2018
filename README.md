@@ -1,45 +1,47 @@
-NB: You might find useful the [sample proposal](http://github.com/zamfi/ucb-jacobs-creative-programming-electronics-spring-2018/blob/master/hw/sample-proposal.md) useful in completing this assignment!
-
 # Viene
 
 One-sentence summary of your project goes here. Then, make sure you have each of these sections completed:
 
 ## Team
-
-A list of your team members here.
+Victor Wang, Rebecca Abraham, Tina Ye, Dipika Khullar, Matthew Bronars
 
 ## Summary
 
-Here, write a paragraph or two describing what you built for your final project and what was challenging. 
-
-Include a discussion how it will be interactive or responsive to the environment.
+Viene is a robotic living wall that reflects the changing seasons, set to Vivaldi's _The Four Seasons_.
 
 ## Component Parts
 
-From what pieces did you build your project?
+* 8 plastic vines
+* 6 servos
+* Painted canvas backing
+* 60 neopixels
+* Electronic components
+* Adafruit feather
+* Power supply
+
 
 Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
 
 ## Challenges
 
-A brief discussion of what was hard, challenging, or unexpected about your project.
+### Simulating Vine Growth
+We initially experimented with various pulley-based mechanical systems of retracting and lengthening our plastic vines. Between the limited range of the servos and the lack of precision of the DC motors, this proved to be too difficult for the time period. Our alternative was to simulate movement by sequentially lighting up or turning off the LEDs. Since we already had to infrastructure in place to do this, it was easy to implement vie growth in software instead of adding more hardware.
+
+### Power Distribution
 
 ## Timeline
 
-What did you do in each of the past five weeks?
-
-- Week 1: Write proposal
-- Week 2: 
-- Week 3:
-- Week 4:
-- Week 5: Present!
+- Week 1: Wrote proposal
+- Week 2: Purchased materials, planned out design
+- Week 3: Assembled hardware
+- Week 4: Tested components, wrote code
+- Week 5: Showcase
 
 ## Completed Work
 
-Photos and videos of your completed final project!
+[Final Video](https://www.youtube.com/watch?v=HiZiRdkXOhQ)
 
 ## References and links
-
-**Include a link to your final showcase one-pager here in PDF format.**
+[Final Showcase Document](./Viene Poster.pdf)
 
 Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
