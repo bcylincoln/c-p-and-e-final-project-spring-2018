@@ -55,7 +55,7 @@ Individual NeoPixels are parametrized by their position along the strand; this a
 [Final Video](https://www.youtube.com/watch?v=HiZiRdkXOhQ)
 
 ## References and links
-[Final Showcase Document](./Viene Poster.pdf)
+[Final Showcase Document](./Viene%20Poster.pdf)
 
 ### Resources
 [Adafruit Feather Documentation](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/overview)  
