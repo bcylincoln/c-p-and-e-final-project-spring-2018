@@ -55,7 +55,9 @@ Individual NeoPixels are parametrized by their position along the strand; this a
 
 ## Completed Work
 
-[Final Video](https://www.youtube.com/watch?v=HiZiRdkXOhQ)
+[Final Video](https://www.youtube.com/watch?v=HiZiRdkXOhQ)  
+![living wall](./images/IMG_7418.JPG)  
+
 
 ## References and links
 [Final Showcase Document](./Viene%20Poster.pdf)
