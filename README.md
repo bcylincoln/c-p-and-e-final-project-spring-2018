@@ -60,14 +60,16 @@ Viene is the amalgamation of various skills that we acquired while taking Design
 [WATCH: Viene Final Video Demo](https://www.youtube.com/watch?v=HiZiRdkXOhQ)  
  
 ![living wall](./images/IMG_7418.JPG)  
-_Early prototyping with servos_
+_Early prototyping with servos_  
+ 
 
 ![living wall 2](./images/Screenshot_1.png) 
 _Testing our moving vines and neopixels_  
+ 
 
 
 ## References and links
-[Final Showcase Document](./Viene%20Poster.pdf)
+[Final Showcase Presentation Poster](./Viene%20Poster.pdf)
 
 ### Resources
 [Adafruit Feather Documentation](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/overview)  
