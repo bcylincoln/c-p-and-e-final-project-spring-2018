@@ -1,23 +1,23 @@
 # Viene
 
-Viene is a robotic living wall that reflects the changing seasons, set to Vivaldi's _The Four Seasons_.
+Viene is a robotic living wall set to Vivaldi's _The Four Seasons_ that is meant to give people a way to artificially experience the beauty of changing seasons as a living art piece.
 
 ## Team
 Victor Wang, Rebecca Abraham, Tina Ye, Dipika Khullar, Matthew Bronars
 
 ## Summary
 
-The wall cycles through the four seasons of the year along with a soundtrack consisting of segments from Vivaldi's concertis to enhance the mood of each season. Moving vines suspended along a beam and spinning flowers powered by DC motors allow for movement as the seasons pass, simulating growth and wind. Strings of neopixels are embedded along each vine allow for changing colors and patterns according to the season that the wall is experiencing. This project aims to mimick the events of nature through programming and electronics. 
+Viene cycles through the four seasons of the year along with a soundtrack consisting of segments from Vivaldi's concertis to enhance the mood of each season. Moving vines suspended along a beam and spinning flowers powered by DC motors allow for movement as the seasons pass, simulating growth and wind. Strings of neopixels are embedded along each vine allow for changing colors and patterns according to the season that the wall is experiencing. This project aims to mimick the events of nature through programming and electronics. 
 
 
 ## Component Parts
 
 * 8 plastic vines
-* 6 servos
+* 8 servos
 * 4 DC motors
-* Painted canvas backing
+* Painted canvas backing with hinges
 * 60 neopixels
-* Electronic components
+* Electronic components and wires
 * Adafruit feather
 * DC Motor + Stepper FeatherWing
 * Power supply
@@ -47,15 +47,16 @@ Individual NeoPixels are parametrized by their position along the strand; this a
 
 ## Timeline
 
-- Week 1: Wrote proposal
-- Week 2: Purchased materials, planned out design
-- Week 3: Assembled hardware
-- Week 4: Tested components, wrote code
-- Week 5: Showcase
+- Week 1: Wrote proposal, planned logistics, discussed the direction of our project
+- Week 2: Purchased materials, planned out and finalized design
+- Week 3: Assembled hardware, created the artistic components
+- Week 4: Tested components, wrote code for motors and neopixels
+- Week 5: Fine-tuning, Showcase presentation and demo
 
 ## Completed Work
 
-[Final Video](https://www.youtube.com/watch?v=HiZiRdkXOhQ)  
+[WATCH: Viene Final Video Demo](https://www.youtube.com/watch?v=HiZiRdkXOhQ)  
+ 
 ![living wall](./images/IMG_7418.JPG)  
 
 
