@@ -45,4 +45,6 @@ We initially experimented with various pulley-based mechanical systems of retrac
 ## References and links
 [Final Showcase Document](./Viene Poster.pdf)
 
-Tutorials, comments, videos, magazine articles - anything you found that helps you understand your project.
+### Resources
+[Adafruit Feather Documentation](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/overview)
+[NeoPixel Uberguide](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)
