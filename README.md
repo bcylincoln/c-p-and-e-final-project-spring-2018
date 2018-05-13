@@ -18,6 +18,7 @@ The wall cycles through the four seasons of the year along with a soundtrack con
 * 60 neopixels
 * Electronic components
 * Adafruit feather
+* DC Motor + Stepper FeatherWing
 * Power supply
 
 
@@ -49,3 +50,4 @@ We had a lot trouble getting the power distribution for our project to work. Sin
 ### Resources
 [Adafruit Feather Documentation](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/overview)  
 [NeoPixel Uberguide](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)
+[FeatherWing Guide](https://learn.adafruit.com/adafruit-stepper-dc-motor-featherwing)
