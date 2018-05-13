@@ -38,6 +38,9 @@ We attempted to add in capactive touch in our project at the bottom of our vines
 ### iPhone app
 We attempted to build an iPhone app that would allow for fine grained control over seasons, timeline, and any other human user interaction that was required for the project. We implemented a basic solution and saw that the proof of concept worked but we were unable to implement all of the required components to work together with the bluetooth portion in time due to the fast deadline of the project.
 
+### Addressing NeoPixels
+Individual NeoPixels are parametrized by their position along the strand; this allows for all the NeoPixels to be controlled by a single pin. The way we wired the data line (snaking through by alternating top to bottom then bottom to top) was for convenience, but it led to coding challenges later. Furthermore, the vines initially consisted of ten NeoPixels each, but because of damage during transportation, we later lost two NeoPixels. This meant more exceptions to handle in code. We dealt with the added complexity with a single function that handled the logic for converting vine numbers and positions along a vine to an index into the strand.
+
 ## Timeline
 
 - Week 1: Wrote proposal
