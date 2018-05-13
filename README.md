@@ -1,13 +1,14 @@
 # Viene
 
-One-sentence summary of your project goes here. Then, make sure you have each of these sections completed:
+Viene is a robotic living wall that reflects the changing seasons, set to Vivaldi's _The Four Seasons_.
 
 ## Team
 Victor Wang, Rebecca Abraham, Tina Ye, Dipika Khullar, Matthew Bronars
 
 ## Summary
 
-Viene is a robotic living wall that reflects the changing seasons, set to Vivaldi's _The Four Seasons_.
+The wall cycles through the four seasons of the year along with a soundtrack consisting of segments from Vivaldi's concertis to enhance the mood of each season. Moving vines suspended along a beam and spinning flowers powered by DC motors allow for movement as the seasons pass, simulating growth and wind. Strings of neopixels are embedded along each vine allow for changing colors and patterns according to the season that the wall is experiencing. This project aims to mimick the events of nature through programming and electronics. 
+
 
 ## Component Parts
 
