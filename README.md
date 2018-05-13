@@ -55,9 +55,15 @@ Individual NeoPixels are parametrized by their position along the strand; this a
 
 ## Completed Work
 
+Viene is the amalgamation of various skills that we acquired while taking Design Innovation 23: from the DC motors controlling the spinning flowers, to the servos that jitter the vines, and the neopixels that dominate the transition of the seasons, all aspects of this project have been built upon a unit in this course. Looking back at the various prototypes that led us to this final project, it is clear that Viene embodies the spirit of iteration and learning from doing.  Moreover, as with all projects, the final result deviated significantly from what we originally imagined; but because of this we learned to be adaptive, innovative, and tenacious. These are skills that are not only important to success in the field of design, but also in college and life in general.  
+
 [WATCH: Viene Final Video Demo](https://www.youtube.com/watch?v=HiZiRdkXOhQ)  
  
 ![living wall](./images/IMG_7418.JPG)  
+_Early prototyping with servos_
+
+![living wall 2](./images/Screenshot_1.png) 
+_Testing our moving vines and neopixels_  
 
 
 ## References and links
