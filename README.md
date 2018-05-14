@@ -9,6 +9,8 @@ Victor Wang, Rebecca Abraham, Tina Ye, Dipika Khullar, Matthew Bronars
 
 Viene cycles through the four seasons of the year along with a soundtrack consisting of segments from Vivaldi's concertis to enhance the mood of each season. Moving vines suspended horizontally along a beam and spinning flowers on the vines powered by DC motors allow for movement as the seasons pass, simulating growth, change, and wind. Strings of neopixels are embedded along each vine and allow for changing colors and patterns according to the season that the wall is experiencing. This project aims to mimick the events of nature through programming and electronics. 
 
+While building this project we ran into a few difficulties.  The first was how to stimulate growth, in the end we decided to use the gradual illumination of NeoPixels as opposed to a motor that wound up the vines.  With numerous NeoPixels, DC motors, and Servos running at the same time, it was difficult to find a way to correctly get the power to all the components without ruining our wires.  Additionally, there were difficulties getting capacitive touch to work seamlessly and making a fully implemented iphone app and programming the NeoPixels.  Even with these difficulties, we still ended up with a living wall that accomplished the primary goals we set out to attain.
+
 
 ## Component Parts
 
